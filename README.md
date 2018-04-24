@@ -26,7 +26,7 @@ public class ExampleRequest extends AWorkRequest<String>{
     public String inputMessage;
     
     public ExampleRequest (String input, String token) {
-        super(token, new ExampleResponseHandler());i
+        super(token, new ExampleResponseHandler());
     ...
 ```
 
