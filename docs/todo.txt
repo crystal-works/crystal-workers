@@ -1,0 +1,3 @@
+-- Make policies configurable after the worker manager has been constructed
+
+-- Make tokens optional
